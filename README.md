@@ -1,4 +1,4 @@
-# tarkov-market-gsheet-script
+# Tarkov-market.com - How to fill google sheet via api
 
 Example google sheet
 
