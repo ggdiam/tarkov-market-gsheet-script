@@ -7,7 +7,7 @@ const ssPublicData = ss.getSheetByName('public data');
 * set your api key here
 * you can get it here: https://tarkov-market.com/dev/api
 */
-const API_KEY = '';
+const API_KEY = 'FPohLXIPmSW2LWwv';
 
 //First row - header
 const HEADER_ROWS_COUNT = 2;
